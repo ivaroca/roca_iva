@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+p {
+	color:firebrick;
+	font-family: Gotham, Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', 'sans-serif'Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: gold;
+	padding: 20px;
+	}
+
+img {
+	height: 300px;
+	width: 600;
+	}
+h2 , h1 {font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color:whitesmoke;
+	background-color: crimson;
+
+	}
+body {
+	background-image: url("Slike/pozadinaa.jpeg")
+	
+	}
+a { color: ghostwhite;
+	background-color: firebrick;
+	padding: 5px;
+	line-height: 25px;
+	border: 1px #06132B;
+	
+	}
+
+
+	
+	
